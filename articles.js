@@ -187,5 +187,29 @@ window.CLB_ARTICLES=[
     "url": "https://daibieunhandan.vn/chuyen-gia-canh-bao-thu-doan-loi-dung-ai-tao-sinh-de-thao-tung-nhan-thuc-nguoi-dung-10425623.html"
    }
   ]
+ },
+ {
+  "title": "Học Sử cùng AI: khi học sinh tự “huấn luyện” chatbot bằng tài liệu chuẩn 🏛️",
+  "summary": "Học sinh TP.HCM làm chatbot AI chỉ trả lời từ bộ tài liệu tự biên soạn. Cùng học cách dùng AI học Sử mà không “sai sử”!",
+  "body": "Nếu hỏi AI một câu về lịch sử, bạn có chắc câu trả lời đúng 100%? Các bạn học sinh ở TP.HCM đã nghĩ ra một cách rất thông minh để trả lời câu hỏi này!\n\n**📌 Chatbot lịch sử “made by học sinh”**\nNgày 14/11/2026, tại Trường THPT Lê Quý Đôn (TP.HCM), học sinh 6 trường thuộc Cụm chuyên môn 5 báo cáo dự án liên môn “50:01 – Khắc dấu rạng đông”. Hơn 5.000 học sinh đã tạo ra hàng trăm sản phẩm số: bảo tàng số, triển lãm trực tuyến, sa bàn AR và cả chatbot AI. Điểm đặc biệt: chatbot của lớp 12A5 chỉ trả lời dựa trên bộ tài liệu chuẩn hóa do chính nhóm biên soạn, thay vì “nhặt” thông tin trôi nổi trên mạng.\n\n**📌 Ý tưởng là của học sinh**\nThầy giáo hướng dẫn – Tổ trưởng Tổ Lịch sử của trường – cho biết thầy cô chỉ định hướng và hỗ trợ, còn ý tưởng dự án hoàn toàn đến từ các bạn học sinh. Muốn làm được chatbot “chuẩn”, các bạn phải tự đọc, chọn lọc và kiểm tra tư liệu trước – đó mới chính là phần học sâu nhất!\n\n**📌 Vì sao phải kiểm chứng khi học Sử với AI?**\nCác thầy cô và chuyên gia giáo dục nhấn mạnh: AI có thể tạo hình ảnh, video phục dựng rất sinh động nhưng dễ sai bối cảnh. Tính xác thực của dữ liệu là điều quan trọng nhất. AI chỉ nên là công cụ tham khảo ban đầu, không phải nguồn cuối cùng.\n\n**✅ Bạn có thể làm gì?**\n• Tự nghĩ trước – Hỏi AI sau: đọc SGK, tự tóm tắt sự kiện rồi mới nhờ AI góp ý.\n• Yêu cầu AI nêu rõ mốc thời gian, nhân vật, địa điểm; sau đó đối chiếu với SGK hoặc trang báo, bảo tàng chính thống.\n• Phân biệt ảnh minh họa do AI tạo với tư liệu thật – đừng dùng ảnh AI làm “bằng chứng lịch sử”.\n• Khi AI trả lời sai, hãy ghi lại và phân tích: đây là bài tập phản biện tuyệt vời!\n• Dùng AI thì khai báo: ghi rõ phần nào có AI hỗ trợ trong bài làm, sản phẩm.\n\n🌱 Thử ngay: chọn một bài Lịch sử sắp học, tự viết 5 mốc quan trọng, rồi nhờ AI kiểm tra và tìm 1 chỗ bạn hoặc AI còn sai!",
+  "category": "Góc kỹ năng",
+  "author": "CLB AI Thăng Long",
+  "date": "2026-11-24",
+  "cover": "",
+  "images": [],
+  "video": "",
+  "published": true,
+  "pinned": false,
+  "auto": true,
+  "sources": [
+   {
+    "name": "Báo Thanh Niên",
+    "url": "https://thanhnien.vn/hoc-sinh-tphcm-dua-lich-su-len-khong-gian-so-bang-chatbot-ai-18526111414365914.htm"
+   },
+   {
+    "name": "Báo Giáo dục Việt Nam",
+    "url": "https://giaoduc.net.vn/su-dung-dung-cach-ai-giup-bai-hoc-lich-su-tro-nen-truc-quan-sinh-dong-post253898.gd"
+   }
+  ]
  }
 ];
