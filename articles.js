@@ -231,5 +231,25 @@ window.CLB_ARTICLES=[
     "url": "https://baoquocte.vn/du-an-cua-hoc-sinh-mien-nui-truyen-cam-hung-tai-chung-ket-samsung-solve-for-tomorrow-2026-465789.html"
    }
   ]
+ },
+ {
+  "title": "Học tiếng Anh cùng AI: tự giải trước, hỏi máy sau 🇬🇧",
+  "summary": "Học sinh giỏi và chuyên gia chia sẻ cách dùng AI để học tiếng Anh tiến bộ thật, không biến AI thành “máy làm bài hộ”.",
+  "body": "Bạn có từng nhờ AI dịch cả đoạn văn tiếng Anh rồi chép vào vở cho nhanh? Tiện thật, nhưng trình tiếng Anh của bạn có thực sự tiến bộ không? 🤔\n\n**📌 Học tiếng Anh giờ không chỉ để thi**\nTheo Báo Nhân Dân, cô Trần Thị Hồng Thủy, Hiệu trưởng Trường THCS-THPT Trần Đại Nghĩa (TP. Hồ Chí Minh), cho rằng mục tiêu học tiếng Anh đã chuyển từ học thuộc từ vựng, ngữ pháp để lấy điểm sang giao tiếp, ứng biến tình huống và tiếp cận tri thức. Nói cách khác: dùng được mới là giỏi.\n\n**📌 Bí quyết của một bạn học sinh giỏi Anh**\nHuỳnh Nguyễn Xuân Phúc, bạn vừa đỗ lớp 10 chuyên Anh, dùng AI để giải thích những điểm ngữ pháp khó, tạo bài trắc nghiệm nhỏ và sắp xếp kiến thức cho có hệ thống. Nhưng Phúc luôn tự làm bài trước, xong mới đối chiếu với đáp án của AI. Bạn ấy cũng khẳng định AI không thay được thầy cô.\n\n**📌 Cẩn thận với “thức ăn nhanh”**\nCô Hà Đặng Như Quỳnh, người đạt 9.0 IELTS, ví AI giống như đồ ăn nhanh: nếu chỉ dùng để lấy đáp án, bạn sẽ có kiến thức bề nổi mà thiếu tư duy. Cô gợi ý: luyện phát âm, từ vựng với AI ở nhà, còn lên lớp thì tranh thủ thảo luận, nói thật nhiều để tự tin hơn.\n\n**✅ Bạn có thể làm gì?**\n• Tự nghĩ trước – Hỏi AI sau: tự làm bài tập, tự viết đoạn văn, rồi mới nhờ AI chỉ ra lỗi và giải thích vì sao sai.\n• Nhờ AI ra đề chứ đừng nhờ AI làm bài: “Hãy ra 5 câu trắc nghiệm về thì hiện tại hoàn thành cho học sinh lớp 9, chưa cho đáp án.”\n• Luyện nói: nhờ AI đóng vai người bạn nước ngoài, trò chuyện 5 phút về một chủ đề quen thuộc.\n• Ghi lỗi sai vào sổ tay riêng để ôn lại, vì AI không nhớ hộ bạn được.\n• Dùng AI thì khai báo: bài nộp có nhờ AI sửa, hãy ghi rõ phần nào để thầy cô biết bạn đã tự làm tới đâu.\n\n🌱 Thử ngay: Viết 5 câu tiếng Anh kể về ngày hôm nay của bạn, sau đó nhờ AI sửa lỗi và giải thích từng lỗi bằng tiếng Việt!",
+  "category": "Góc kỹ năng",
+  "author": "CLB AI Thăng Long",
+  "date": "2026-11-25",
+  "cover": "",
+  "images": [],
+  "video": "",
+  "published": true,
+  "pinned": false,
+  "auto": true,
+  "sources": [
+   {
+    "name": "Báo Nhân Dân",
+    "url": "https://nhandan.vn/ocop/day-hoc-tieng-anh-cho-hoc-sinh-tieu-hoc-trung-hoc-pho-thong-trong-thoi-ai-post976929.html"
+   }
+  ]
  }
 ];
