@@ -211,5 +211,25 @@ window.CLB_ARTICLES=[
     "url": "https://giaoduc.net.vn/su-dung-dung-cach-ai-giup-bai-hoc-lich-su-tro-nen-truc-quan-sinh-dong-post253898.gd"
    }
   ]
+ },
+ {
+  "title": "Học sinh miền núi “thắp sáng” sân chơi sáng tạo STEM 🌟",
+  "summary": "Sàn nhà tạo điện từ bước chân của học sinh THPT Nguyễn Du (Đắk Lắk) nhận giải “Truyền cảm hứng” tại Samsung Solve for Tomorrow 2026.",
+  "body": "Một sàn nhà biết “phát điện” từ chính bước chân của bạn trong giờ ra chơi? Đó là sản phẩm của một nhóm học sinh trường miền núi vừa được vinh danh tại chung kết Samsung Solve for Tomorrow 2026. Cùng chúng mình xem các bạn đã làm thế nào nhé!\n\n**📌 Một sân chơi rất lớn**\nCuộc thi do Samsung phối hợp với Trung tâm Đổi mới sáng tạo quốc gia (NIC) tổ chức. Năm nay phong trào lan tỏa tới 34 tỉnh thành, hơn 1.800 trường THCS, THPT tham gia, với kỷ lục 2.900 bài dự thi. Chỉ 17 đội xuất sắc nhất vào vòng chung kết.\n\n**📌 Đội “4 con rùa” và sàn nhà thông minh**\nĐến từ Trường THPT Nguyễn Du (Đắk Lắk), nhóm nhận ra hai điều: học sinh ít vận động vì áp lực học tập, còn thông điệp sống xanh thì chưa đến được với nhiều bạn. Thế là dự án “Smart Energy PlayFloor” ra đời:\n• Tấm áp điện biến lực bước chân thành điện năng xanh.\n• Vi điều khiển ESP32 và IoT ghi nhận dữ liệu, gửi lên ứng dụng “EcoStep” trên nền tảng đám mây.\n• Trò chơi hóa giờ ra chơi để ai cũng muốn nhảy, chạy, vận động.\nBan tổ chức đã bổ sung riêng giải “Truyền cảm hứng” để trao cho nhóm.\n\n**📌 AI giải bài toán thật của địa phương**\nHai giải Nhất thuộc về đội NOVARISE (Tiểu học và THCS FPT Đà Nẵng) với nẹp cánh tay robot hỗ trợ trị liệu, và đội CDTD (THPT FPT Cần Thơ) với hệ thống AI-IoT cảnh báo sớm nguy cơ cadimi trong đất trồng sầu riêng. Điểm chung: mỗi ý tưởng đều bắt đầu từ một vấn đề có thật quanh mình.\n\nThầy hiệu trưởng THPT Nguyễn Du chia sẻ, điều quý nhất là thấy các em từ rụt rè trở nên tự tin khi trả lời câu hỏi phản biện của Hội đồng.\n\n**✅ Bạn có thể làm gì?**\n1. Quan sát quanh trường, quanh vườn nhà ở Nam Ban: chuyện gì đang làm mọi người khó khăn?\n2. Tự nghĩ trước – Hỏi AI sau: ghi ra ý tưởng của riêng bạn, rồi mới nhờ AI góp ý, tìm điểm yếu.\n3. Kiểm chứng số liệu AI đưa ra bằng tài liệu, thầy cô hoặc thí nghiệm thật.\n4. Dùng AI thì khai báo: ghi rõ phần nào AI hỗ trợ trong báo cáo dự án.\n\n🌱 Thử ngay: Viết 3 vấn đề bạn thấy ở trường hoặc ở xã mình, chọn 1 vấn đề và hỏi AI: “Hãy đặt cho mình 5 câu hỏi phản biện về ý tưởng này”.",
+  "category": "Tin giáo dục",
+  "author": "CLB AI Thăng Long",
+  "date": "2026-11-25",
+  "cover": "",
+  "images": [],
+  "video": "",
+  "published": true,
+  "pinned": false,
+  "auto": true,
+  "sources": [
+   {
+    "name": "Báo Thế giới và Việt Nam",
+    "url": "https://baoquocte.vn/du-an-cua-hoc-sinh-mien-nui-truyen-cam-hung-tai-chung-ket-samsung-solve-for-tomorrow-2026-465789.html"
+   }
+  ]
  }
 ];
