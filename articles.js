@@ -251,5 +251,29 @@ window.CLB_ARTICLES=[
     "url": "https://nhandan.vn/ocop/day-hoc-tieng-anh-cho-hoc-sinh-tieu-hoc-trung-hoc-pho-thong-trong-thoi-ai-post976929.html"
    }
   ]
+ },
+ {
+  "title": "Đừng “khoe” địa chỉ nhà và lịch trình lên mạng! 🔒",
+  "summary": "Bộ GD&ĐT xếp địa chỉ nhà, lịch trình hằng ngày vào nhóm thông tin rủi ro cao. Cùng điểm lại 6 thói quen giúp bạn tự bảo vệ dữ liệu cá nhân trên mạng.",
+  "body": "Bạn có từng đăng story “Đang chờ xe buýt ở cổng trường nè!” hay khoe ảnh thẻ học sinh mới toanh? Nghe vô hại, nhưng với kẻ xấu, đó có thể là một tấm bản đồ dẫn thẳng tới bạn đấy! 🗺️\n\n**📌 Bộ GD&ĐT vừa có “cẩm nang” lên mạng an toàn**\nBộ trưởng Bộ GD&ĐT đã ban hành Quyết định 3307/QĐ-BGDĐT phê duyệt tài liệu hướng dẫn học sinh sử dụng mạng an toàn. Trong tài liệu, địa chỉ nhà và lịch trình di chuyển hằng ngày bị xếp vào nhóm **rủi ro cao**, vì có thể khiến bạn bị theo dõi hoặc bị tiếp cận lúc không có người lớn bên cạnh. Đăng đầy đủ họ tên kèm tên trường, lớp cũng rủi ro cao như vậy.\n\n**📌 Thông tin riêng tư của trẻ em được pháp luật bảo vệ**\nTheo Điều 33 Nghị định 56/2017/NĐ-CP (hướng dẫn Luật Trẻ em), bí mật đời sống riêng tư của trẻ em chỉ được công bố khi có sự đồng ý theo quy định; từ đủ 7 tuổi trở lên thì cần cả sự đồng ý của chính các em. Nghĩa là ảnh, thông tin của bạn bè cũng không phải thứ muốn đăng là đăng.\n\n**📌 Người trẻ là nhóm dễ “hớ” nhất**\nTại một tọa đàm nhân Ngày Pháp luật Việt Nam (9/11) dành cho đoàn viên, sinh viên, các khách mời nhắc người trẻ thận trọng khi chia sẻ hình ảnh, thông tin cá nhân và tôn trọng quyền riêng tư của người khác trên mạng.\n\n**✅ Bạn có thể làm gì?**\n• Không đăng địa chỉ nhà, số điện thoại, vị trí hiện tại hay giờ đi học – về nhà.\n• Không chụp khoe thẻ học sinh, giấy tờ, vé, mã QR; che kín thông tin trước khi gửi ảnh màn hình.\n• Không bao giờ gửi mật khẩu hay mã OTP cho bất kỳ ai, kể cả “bạn thân trên mạng”.\n• Xin phép bạn bè trước khi đăng ảnh hoặc tin nhắn có họ.\n• Kiểm tra lại chế độ “Ai xem được bài viết” trên từng tài khoản.\n• Khi nhờ AI sửa ảnh hay viết bài, hãy xóa thông tin cá nhân trước khi dán vào chatbot. **Tự nghĩ trước – Hỏi AI sau**: trước khi bấm đăng, tự hỏi “Người lạ biết điều này thì sao?”. Và nhớ **dùng AI thì khai báo** khi nộp sản phẩm nhé!\n\n🌱 Thử ngay: mở trang cá nhân của bạn ở chế độ “người lạ xem”, tìm và ẩn ít nhất 3 thông tin có thể lộ nơi ở hoặc lịch trình.",
+  "category": "An toàn mạng",
+  "author": "CLB AI Thăng Long",
+  "date": "2026-11-26",
+  "cover": "",
+  "images": [],
+  "video": "",
+  "published": true,
+  "pinned": false,
+  "auto": true,
+  "sources": [
+   {
+    "name": "Tạp chí Luật sư Việt Nam",
+    "url": "https://lsvn.vn/khuyen-nghi-hoc-sinh-khong-cong-khai-dia-chi-nha-lich-trinh-tren-mang-a182710.html"
+   },
+   {
+    "name": "Báo Tiền Phong",
+    "url": "https://tienphong.vn/nguoi-tre-doi-mat-nguy-co-mat-an-toan-du-lieu-ca-nhan-tren-mang-post1893009.tpo"
+   }
+  ]
  }
 ];
