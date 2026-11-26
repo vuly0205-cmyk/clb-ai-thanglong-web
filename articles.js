@@ -275,5 +275,29 @@ window.CLB_ARTICLES=[
     "url": "https://tienphong.vn/nguoi-tre-doi-mat-nguy-co-mat-an-toan-du-lieu-ca-nhan-tren-mang-post1893009.tpo"
    }
   ]
+ },
+ {
+  "title": "Học Văn cùng AI: giữ lấy cảm xúc và giọng văn của riêng mình ✍️",
+  "summary": "Chép bài văn do AI viết có thể khiến điểm tụt và cảm xúc biến mất. Cùng tìm cách dùng AI làm “bạn đọc góp ý” thay vì “người viết hộ”.",
+  "body": "Chỉ vài giây, AI có thể viết xong cả một bài văn dài cả nghìn chữ. Nhưng bài văn ấy có thật sự là của bạn, có chở được cảm xúc của bạn không? 🤔\n\n**📌 Chuyện thật: chép văn AI, điểm tụt**\nBáo Tiền Phong kể về một bạn lớp 8 ở Hà Nội vốn học khá Văn. Bạn đưa đề cho AI lập dàn ý, viết bài hoàn chỉnh rồi chép lại. Kết quả: bài kiểm tra giữa kỳ chỉ được 6 điểm. Mẹ bạn lo lắng vì năm sau là năm cuối cấp, mà Văn lại là môn thi vào lớp 10.\n\n**📌 Vì sao AI “viết hay” mà vẫn thiếu hồn?**\nMột cô giáo dạy Ngữ văn ở Ninh Bình cho học sinh so sánh đoạn văn do AI viết với cảm nhận của chính mình. Các bạn tự nhận ra: nhân vật trong bài của AI không truyền được cảm xúc mà tác giả gửi gắm. Môn Văn cần sự rung động thật của người học, thứ mà máy không làm thay được.\n\n**📌 Chuyên gia khuyên gì?**\nTheo TS. Phạm Thị Kim Giang (Trường Đại học Giáo dục, ĐHQG Hà Nội), AI chỉ là công cụ hỗ trợ. Học sinh nên tự suy nghĩ, tự lập dàn ý trước, sau đó mới dùng AI để đối chiếu; đồng thời ghi rõ phần nào có AI hỗ trợ và kiểm tra lại thông tin với sách giáo khoa.\n\n**✅ Bạn có thể làm gì?**\n• **Tự nghĩ trước – Hỏi AI sau:** đọc kỹ đề, gạch ý và viết dàn ý bằng tay trước khi mở chatbot.\n• Nhờ AI làm “bạn đọc khó tính”: dán đoạn văn bạn đã viết và hỏi “Đoạn này còn thiếu dẫn chứng ở đâu? Đừng viết lại giúp mình.”\n• Giữ giọng văn riêng: AI gợi ý từ ngữ thì bạn chọn lọc, tự viết lại bằng câu chữ của mình.\n• **Dùng AI thì khai báo:** ghi cuối bài “Mình đã nhờ AI góp ý phần mở bài”.\n• Kiểm tra mọi chi tiết về tác giả, tác phẩm với sách giáo khoa vì AI có thể “bịa”.\n\n🌱 Thử ngay: chọn một đề văn gần nhất, tự viết đoạn mở bài trong 10 phút, rồi mới nhờ AI chỉ ra 2 điểm cần sửa – bạn tự sửa nhé!",
+  "category": "Góc kỹ năng",
+  "author": "CLB AI Thăng Long",
+  "date": "2026-11-26",
+  "cover": "",
+  "images": [],
+  "video": "",
+  "published": true,
+  "pinned": false,
+  "auto": true,
+  "sources": [
+   {
+    "name": "Tiền Phong",
+    "url": "https://tienphong.vn/dung-ai-viet-van-lo-hoc-sinh-mat-het-cam-xuc-post1897157.tpo"
+   },
+   {
+    "name": "Sức khỏe & Đời sống",
+    "url": "https://suckhoedoisong.vn/de-xuat-han-che-hoc-sinh-dung-ai-chuyen-gia-giao-duc-noi-gi-169261112211355041.htm"
+   }
+  ]
  }
 ];
