@@ -319,5 +319,29 @@ window.CLB_ARTICLES=[
     "url": "https://dantri.com.vn/giao-duc/tung-bi-lua-tien-hai-nam-sinh-lop-10-viet-nen-tang-chong-tin-gia-ma-doc-20261116001147982.htm"
    }
   ]
+ },
+ {
+  "title": "Học Toán cùng AI: xin gợi ý, đừng xin đáp án 🧮",
+  "summary": "AI có thể là gia sư Toán 24/7 nếu bạn hỏi đúng cách: xin gợi ý từng bước, tự giải, rồi kiểm tra lại – thay vì chép lời giải có sẵn.",
+  "body": "Bí bài Toán lúc 10 giờ tối, chụp ảnh gửi AI và có ngay lời giải – nghe thật tiện! Nhưng sáng hôm sau gặp bài tương tự trong giờ kiểm tra thì sao? Cùng chúng mình tìm cách biến AI thành “gia sư” thật sự nhé.\n\n**📌 Khi AI chỉ gợi ý từng bước**\nTheo Tuổi Trẻ, dự án VMathAI đã thí điểm học Toán cá nhân hóa ở 21 trường THPT với hơn 37.000 học sinh. Hệ thống không đưa đáp án ngay mà gợi ý dần để học sinh tự tìm ra lời giải, đồng thời theo dõi điểm mạnh, điểm yếu để ra bài phù hợp. Điều thú vị: các thầy cô nhận xét mô hình này hiệu quả nhất với những bạn chủ động tự học, còn bạn nào “khai gian” trình độ để nhận bài dễ hơn thì chỉ tự làm khó mình.\n\n**📌 AI cũng có lúc sai**\nBáo Tiền Phong kể về hai bạn học sinh THPT dùng AI để hỏi lại phần chưa hiểu, xin thêm bài tương tự và nhờ kiểm tra bài sau khi đã tự làm xong. Cả hai đều từng gặp AI trả lời sai, nên luôn đối chiếu với sách giáo khoa và hỏi lại thầy cô, bạn bè.\n\n**📌 Đúng tinh thần của Bộ GD&ĐT**\nCông văn 5588/BGDĐT-GDPT về giáo dục AI từ năm học 2026–2027 nhấn mạnh tư duy phản biện, kiểm chứng thông tin và năng lực tự học. Nghĩa là: dùng AI để học sâu hơn, không phải để làm nhanh hơn.\n\n**✅ Bạn có thể làm gì?**\n• Tự nghĩ trước – Hỏi AI sau: làm ít nhất 10–15 phút, ghi lại mình bí ở bước nào.\n• Thay vì “Giải giúp bài này”, hãy hỏi: “Đừng cho đáp án, hãy gợi ý bước tiếp theo để mình tự làm”.\n• Xin AI thêm 2–3 bài tương tự để luyện, rồi tự giải và nhờ AI chấm, chỉ ra chỗ sai.\n• Kiểm tra lại kết quả bằng cách thay số, vẽ hình hoặc so với sách giáo khoa.\n• Dùng AI thì khai báo: ghi chú phần nào có AI hỗ trợ khi nộp bài cho thầy cô.\n\n🌱 Thử ngay: chọn 1 bài Toán bạn từng bỏ dở, nhờ AI chỉ gợi ý từng bước và tự đi đến đáp số cuối cùng!",
+  "category": "Góc kỹ năng",
+  "author": "CLB AI Thăng Long",
+  "date": "2026-11-27",
+  "cover": "",
+  "images": [],
+  "video": "",
+  "published": true,
+  "pinned": false,
+  "auto": true,
+  "sources": [
+   {
+    "name": "Tuổi Trẻ",
+    "url": "https://tuoitre.vn/hoc-toan-bang-ai-the-nao-20260605090705602.htm"
+   },
+   {
+    "name": "Tiền Phong",
+    "url": "https://tienphong.vn/bien-ai-thanh-gia-su-247-mien-phi-dung-the-nao-de-tien-bo-thay-vi-mat-goc-post1875892.tpo"
+   }
+  ]
  }
 ];
