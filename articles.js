@@ -299,5 +299,25 @@ window.CLB_ARTICLES=[
     "url": "https://suckhoedoisong.vn/de-xuat-han-che-hoc-sinh-dung-ai-chuyen-gia-giao-duc-noi-gi-169261112211355041.htm"
    }
   ]
+ },
+ {
+  "title": "Từng bị lừa, hai nam sinh lớp 10 làm “Lá chắn số” chống tin giả 🛡️",
+  "summary": "Hai học sinh lớp 10 ở TP.HCM tự xây nền tảng dùng AI giúp kiểm tra link, tin nhắn đáng ngờ. Bài học cho chúng mình: dừng lại, kiểm tra trước khi tin.",
+  "body": "Từng mất tiền vì một cú lừa trên mạng, hai cậu bạn lớp 10 ở TP.HCM không chỉ “rút kinh nghiệm” mà còn tự viết hẳn một nền tảng giúp mọi người kiểm tra tin giả, đường link độc hại. Câu chuyện này có gì để chúng mình học hỏi?\n\n**📌 Từ một lần bị lừa hồi tiểu học**\nTheo báo Dân trí, Nguyễn Võ Anh Khoa (THPT Lê Minh Xuân) hồi lớp 2–3 muốn mua một tài khoản game trên mạng. Bạn chuyển tiền cọc theo lời người bán, rồi… bị chặn liên lạc. Khoa và bạn thân Nguyễn Lĩnh Nam (THPT Nguyễn Hữu Cảnh) quen nhau từ đội tuyển Tin học cấp 2, và cùng ấp ủ ý tưởng giúp người khác không mắc bẫy giống mình.\n\n**📌 “Lá chắn số” hoạt động thế nào?**\n• Người dùng dán đường link, tin nhắn lạ hay bài viết đáng ngờ lên trang web.\n• Hệ thống quét theo hàng trăm tiêu chí rủi ro, đối chiếu với báo chính thống trong và ngoài nước cùng kho dữ liệu liên kết độc hại toàn cầu.\n• AI không chỉ đưa ra kết luận mà còn giải thích vì sao thông tin đó rủi ro cao hay thấp.\nHai bạn bắt tay làm từ tháng 5, viết mã trong khoảng 1–2 tháng và mở cho cộng đồng dùng từ tháng 8. Đến đầu tháng 9 đã có hơn 1.500 lượt kiểm tra website.\n\n**📌 Công nghệ chỉ là trợ thủ**\nDự án lọt top 5 đề cử Better Choice Awards 2026 và đạt giải Tin học trẻ khu vực miền Nam. Chuyên gia an ninh mạng Ngô Minh Hiếu góp ý rằng công cụ cần nói rõ giới hạn của mình để người dùng không chủ quan. Chính Khoa và Nam cũng nhấn mạnh: AI không thay được sự tỉnh táo của con người.\n\n**✅ Bạn có thể làm gì?**\n1. Gặp link lạ, tin “giật gân” hay lời mời chuyển tiền: dừng lại, kiểm tra trước khi tin, chia sẻ hoặc chuyển khoản.\n2. Tự nghĩ trước – Hỏi AI sau: tự đặt câu hỏi “Ai gửi? Nguồn ở đâu? Có gì vô lý?” rồi mới nhờ AI hay công cụ hỗ trợ đối chiếu.\n3. Không tin 100% vào bất kỳ công cụ nào, kể cả AI. Hỏi thêm thầy cô, bố mẹ khi còn băn khoăn.\n4. Có ý tưởng hay? Hãy biến nỗi lo thành dự án như Khoa và Nam. Nếu dùng AI hỗ trợ làm sản phẩm, nhớ “Dùng AI thì khai báo” nhé!\n\n🌱 Thử ngay: Nhớ lại một tin nhắn hay đường link đáng ngờ bạn từng nhận, ghi ra 3 dấu hiệu khiến bạn nghi ngờ và chia sẻ với CLB!",
+  "category": "Tin giáo dục",
+  "author": "CLB AI Thăng Long",
+  "date": "2026-11-27",
+  "cover": "",
+  "images": [],
+  "video": "",
+  "published": true,
+  "pinned": false,
+  "auto": true,
+  "sources": [
+   {
+    "name": "Dân trí",
+    "url": "https://dantri.com.vn/giao-duc/tung-bi-lua-tien-hai-nam-sinh-lop-10-viet-nen-tang-chong-tin-gia-ma-doc-20261116001147982.htm"
+   }
+  ]
  }
 ];
