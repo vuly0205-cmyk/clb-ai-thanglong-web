@@ -343,5 +343,25 @@ window.CLB_ARTICLES=[
     "url": "https://tienphong.vn/bien-ai-thanh-gia-su-247-mien-phi-dung-the-nao-de-tien-bo-thay-vi-mat-goc-post1875892.tpo"
    }
   ]
+ },
+ {
+  "title": "AI cũng có lúc “bịa”: hiểu ảo giác AI để không bị dắt mũi 🔍",
+  "summary": "AI có thể trả lời sai mà vẫn rất tự tin. Hiểu “ảo giác AI” và học cách kiểm chứng để tự học thông minh hơn.",
+  "body": "Bạn hỏi AI một câu, nó trả lời trôi chảy, tự tin, có cả số liệu lẫn tên sách… nhưng hóa ra một phần là do nó tự “bịa”. Hiện tượng này có tên gọi riêng: **ảo giác AI**. Cùng chúng mình tìm hiểu để không bị “dắt mũi” nhé!\n\n**📌 Ảo giác AI là gì?**\nĐó là khi AI đưa ra thông tin sai hoặc không có thật nhưng trình bày rất chắc chắn, khiến người đọc dễ tin. Báo Tiền Phong (17/11/2026) xếp đây vào nhóm rủi ro lớn nhất khi dùng AI, nhất là với người ít kinh nghiệm và không kiểm chứng lại.\n\n**📌 Vì sao AI lại “bịa”?**\nCác chatbot hiện nay dựa trên mô hình ngôn ngữ lớn: chúng đoán xem từ nào có khả năng xuất hiện tiếp theo, chứ không “tra cứu sự thật” như bạn tra từ điển. Vì vậy, câu văn có thể rất mượt mà nhưng nội dung vẫn sai.\n\n**📌 Văn phong tự tin không có nghĩa là đúng**\nBài báo kể chuyện một nhân viên văn phòng dùng AI soạn kế hoạch chỉ trong hơn một giờ, nhưng bị cấp trên trả lại vì chưa kiểm tra số liệu. Lý do chị tin AI? Vì nó viết quá chắc chắn! Với bài Sử, một năm sai hay một nhân vật bị “gán nhầm” sự kiện cũng có thể khiến cả bài lệch hướng.\n\n**✅ Bạn có thể làm gì?**\n1. **Tự nghĩ trước – Hỏi AI sau:** ghi ra những gì bạn đã biết, rồi mới hỏi AI để so sánh.\n2. Yêu cầu AI nêu nguồn cụ thể (sách giáo khoa, trang .gov.vn, .edu.vn, báo chính thống), sau đó tự mở nguồn ra kiểm tra.\n3. Với số liệu, ngày tháng, tên người: đối chiếu ít nhất 2 nguồn đáng tin.\n4. Hỏi lại AI: “Bạn chắc chắn bao nhiêu phần? Chỗ nào có thể sai?”\n5. **Dùng AI thì khai báo:** ghi rõ phần nào có AI hỗ trợ và bạn đã kiểm chứng ra sao.\n\n🌱 Thử ngay: Hỏi AI về một sự kiện lịch sử bạn vừa học, rồi mở sách giáo khoa đối chiếu từng mốc thời gian. Bạn có “bắt lỗi” được AI không?",
+  "category": "Góc kiến thức",
+  "author": "CLB AI Thăng Long",
+  "date": "2026-11-28",
+  "cover": "",
+  "images": [],
+  "video": "",
+  "published": true,
+  "pinned": false,
+  "auto": true,
+  "sources": [
+   {
+    "name": "Báo Tiền Phong",
+    "url": "https://tienphong.vn/nguy-co-ao-giac-khi-dung-ai-post1895104.tpo"
+   }
+  ]
  }
 ];
