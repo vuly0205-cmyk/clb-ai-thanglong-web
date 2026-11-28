@@ -363,5 +363,25 @@ window.CLB_ARTICLES=[
     "url": "https://tienphong.vn/nguy-co-ao-giac-khi-dung-ai-post1895104.tpo"
    }
   ]
+ },
+ {
+  "title": "“Bắt cóc online”: nhận diện cái bẫy “việc nhẹ, lương cao” 🚨",
+  "summary": "Ngay tại Lâm Đồng, nhiều bạn tuổi teen suýt rơi vào bẫy “việc nhẹ, lương cao” trên mạng. Cùng học 4 nguyên tắc để tự bảo vệ mình.",
+  "body": "Một lời mời “việc nhẹ, lương cao” hay một người bạn mới quen trên mạng tưởng như vô hại… nhưng có thể là bước đầu của cái bẫy “bắt cóc online”. Điều đáng lo là chuyện này đã xảy ra ngay tại Lâm Đồng, quê mình!\n\n**📌 Chuyện thật ở gần chúng mình**\nTheo Báo Văn Hóa, công an Lâm Đồng đã kịp ngăn 3 bạn 15–16 tuổi đang trên đường vào TP Hồ Chí Minh. Các bạn được một tài khoản Facebook mời đi làm giặt là với mức lương 5 triệu đồng/tháng, và tài khoản này trước đó còn dụ thêm 4 trường hợp khác. Ở xã Đam Rông 2, công an cũng tìm thấy 2 em nhỏ đang chuẩn bị lên xe khách và đưa các em về nhà an toàn.\n\n**📌 Kẻ xấu thường “giăng lưới” thế nào?**\n• Lập tài khoản ảo, giả làm người nổi tiếng hoặc giả làm học sinh cùng tuổi để làm quen.\n• Trò chuyện thân mật, tạo cảm giác tin tưởng, rồi rủ rê “việc nhẹ, lương cao”.\n• Dặn giữ bí mật với bố mẹ, thầy cô và hẹn gặp riêng.\n\n**📌 Người lớn cũng đang vào cuộc**\nNhiều địa phương đã tập huấn kỹ năng phòng chống “bắt cóc online” cho học sinh. Hà Nội đặt mục tiêu đến năm 2030, 100% học sinh được hướng dẫn kỹ năng tự bảo vệ. Khi cần, bạn có thể gọi Tổng đài quốc gia bảo vệ trẻ em 111.\n\n**✅ Bạn có thể làm gì?**\n1. Nhớ 4 nguyên tắc: không tin ngay – không cung cấp thông tin – không gặp riêng – báo ngay người lớn.\n2. “Tự nghĩ trước – Hỏi AI sau”: tự đặt câu hỏi “Vì sao một người lạ lại trả lương cao cho mình?”, rồi mới nhờ AI liệt kê dấu hiệu lừa đảo trong tin nhắn (nhớ xóa tên, số điện thoại trước khi dán).\n3. AI chỉ là người gợi ý, quyết định cuối cùng luôn cần bố mẹ, thầy cô cùng xem.\n4. Nếu bạn dùng AI để làm poster tuyên truyền cho lớp, hãy ghi rõ “Có sử dụng AI hỗ trợ” – dùng AI thì khai báo nhé!\n\n🌱 Thử ngay: Tối nay, hãy kể cho bố mẹ nghe 4 nguyên tắc trên và cùng lưu số 111 vào điện thoại gia đình.",
+  "category": "An toàn mạng",
+  "author": "CLB AI Thăng Long",
+  "date": "2026-11-28",
+  "cover": "",
+  "images": [],
+  "video": "",
+  "published": true,
+  "pinned": false,
+  "auto": true,
+  "sources": [
+   {
+    "name": "Báo Văn Hóa",
+    "url": "https://baovanhoa.vn/bao-ve-tre-em-truoc-nhung-cai-bay-tren-moi-truong-mang.html"
+   }
+  ]
  }
 ];
